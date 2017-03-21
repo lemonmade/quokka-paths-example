@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "app.ts",
   "author": "Chris Sauve <chrismsauve@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^3.0.0",
+    "tsconfig-paths": "^2.1.2",
+    "typescript": "^2.2.1"
+  }
 }
